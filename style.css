@@ -1,0 +1,305 @@
+@media (max-width:500px){
+    body{
+        color: #000;
+    }
+
+}
+
+
+
+
+
+
+body{
+    background-color: rgb(243, 245, 247);
+    font-size: 17px;
+    margin: auto;
+    margin: 0;
+    padding: 0;
+    background-size: fixed;
+}
+.contNavbar{
+    display: flex;
+    list-style: none;
+    
+    background-color: gold;
+
+}
+.nav{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+#home{
+    color: darkgoldenrod;
+}
+#signin{
+    
+    margin-left: 350px;
+}
+#foodh{
+    color: darkgoldenrod;
+    padding-right: 80px;
+    
+}
+.centernav{
+
+    display: flex;
+    text-align: center;
+    gap: 100px;
+
+}
+.enjoy{
+    margin-top: 130px;
+    display: flex;
+}
+.delicious{
+    margin-left: 140px;
+}
+#helthy{
+    color: darkorange;
+}
+#buttonorder{
+    width: 140px;
+    height: 40px;
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    border: none;
+    color: azure;
+    font: bold;
+}
+.chicken{
+margin-left: 5%;
+
+    
+}
+#roastchicken{
+ width: 50%;
+}
+.online{
+    text-align: center;
+    margin-top: 100px;
+
+}
+.foods{
+    display: flex;
+    gap: 150px;
+    /* margin-left: 100px; */
+
+}
+#fish{
+width: 120%;
+height: 50%;
+border-radius: 30%;
+}
+#fdish{
+    height: 50%;
+    border-radius: 30%;
+}
+#sfish{
+    width: 80%;
+    height: 50%;
+    border-radius: 30%;
+    
+}
+#pizza{
+    width: 70%;
+    height: 50%;
+    border-radius: 30%;
+    
+}
+.fa{
+    color: darkgoldenrod;
+}
+
+#buttonadd{
+    width: 200px;
+    height: 30px;
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    border: none;
+    color: antiquewhite;
+}
+
+#butnum{
+    background-color: darkorange;
+    border: none;
+    border-radius: 10%;
+    height: 30px;
+}
+#butsee{
+    background-color: darkgoldenrod;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+}
+.contspecial{
+    display: flex;
+    margin-top: 150px;
+    gap: 150px;
+    margin-left: 200px;
+}
+.special{
+    margin-left: 200px;
+
+}
+#seared{
+    width: 70%;
+    border-radius: 40%;
+    
+}
+.quality{
+    text-align: center;
+    margin-top: 150px;
+}
+.offers{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+#burgerimg{
+    width: 50%;
+    height: 60%;
+
+}
+.other{
+     margin-right: 50px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+#salad{
+    width: 80%;
+}
+#loc{
+    width: 79%;
+}
+#service{
+    text-align: center;
+}
+.services{
+    display: flex;
+    gap: 30px;
+    margin-left: 150px;
+}
+#house{
+    width: 50%;
+    height: 55%;
+}
+#badge{
+    width: 80%;
+    height: 60%;
+}
+#foodde{
+    height: 60%;
+    
+
+}
+#delivery{
+    width: 70%;
+    height: 60%;
+    
+}
+.testimonials{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.fa-solid{
+    color: darkgoldenrod;
+    
+}
+.people{
+    margin-left: 30%;
+    margin-right: 25%;
+    margin-top: 10%;
+}
+#person1{
+    width: 15%;
+    border-radius: 100%;
+}
+#person2{
+    width: 13%;
+    border-radius: 100%; 
+}
+#person3{
+    width: 18%;
+    border-radius: 100%; 
+}
+#person5{
+    width: 18%;
+    border-radius: 100%; 
+}
+#person4{
+    width: 17%;
+    border-radius: 100%;
+}
+#sect{
+    text-align: center;
+}
+.background{
+    background-color: rgb(250, 232, 225);
+}
+.app{
+    display: flex;
+    margin-left: 250px;
+    gap: 250px;
+    margin-top: 60px;
+    margin-right: 250px;
+   
+
+
+}
+#image{
+width: 500%;
+
+}
+#appstore{
+    width: 20%;
+    
+}
+#google{
+    width: 20%;
+    position: relative;
+    top: -13px;
+}
+.subscribe{
+    
+    display: flex;
+    gap: 50px;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+.sub{
+    position: relative;
+    top: -34px;
+}
+#butsub{
+    background-color: darkgoldenrod;
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 5px; 
+}
+#input{
+    width: 250px;
+    height:45px ;
+}
+.footer{
+    display: flex;
+    padding-left: 150px;
+    gap: 150px;
+    background-color: rgb(32, 28, 28);
+    color: aliceblue;
+}
+.downfoot{
+    display: flex;
+     padding-left: 100px;
+    background-color: rgb(245, 200, 88);
+}
+.foote{
+    list-style: none;
+    display: flex;
+    gap: 150px;
+}
+
